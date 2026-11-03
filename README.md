@@ -1,83 +1,109 @@
-# Retail Sales Analysis Dashboard – Microsoft Excel
+# Retail Sales Analysis & Interactive Dashboard
 
-## Project Overview
-This project focuses on analyzing retail sales and customer order data using Microsoft Excel. The objective is to transform raw data into meaningful business insights through data preparation, KPI calculations, Pivot Tables, charts, and an interactive dashboard.
+**Microsoft Excel | Data Analytics Portfolio Project**
 
-## Dashboard Preview
+## 1. Project Overview
 
-![Retail Sales Dashboard](DashBoard.png)
+This project focuses on analyzing retail sales and customer order data using Microsoft Excel. The primary objective is to transform raw transactional data into meaningful business insights by performing data preparation, applying Excel formulas, calculating key performance indicators (KPIs), creating Pivot Tables, and developing an interactive dashboard.
 
-## Tools & Technologies
+The analysis explores customer purchasing patterns, product performance, sales revenue, discount strategies, and order delivery performance to support data-driven business decisions.
+
+## 2. Project Objectives
+
+- Analyze customer demographics and purchasing behavior.
+- Evaluate order volume and delivery performance.
+- Identify the most frequently ordered products.
+- Determine the highest revenue-generating products.
+- Analyze sales revenue, discounts, and delivery charges.
+- Understand city-wise and monthly sales trends.
+- Develop an interactive dashboard for business performance monitoring.
+
+## 3. Tools & Technologies
+
 - Microsoft Excel
-- Excel Formulas
+- Excel Formulas and Functions
 - Pivot Tables
 - Pivot Charts
 - Data Analysis
+- Data Visualization
 - Interactive Dashboard
 
-## Project Objectives
-1. Analyze customer demographics and purchasing behavior.
-2. Evaluate order and delivery performance.
-3. Identify the most popular and highest-revenue products.
-4. Analyze sales, discounts, and delivery charges.
-5. Understand city-wise and monthly sales performance.
-6. Build an interactive dashboard for business insights.
+## 4. Data Preparation & Transformation
 
-## Key Analysis Performed
+The following data preparation activities were performed:
 
-### 1. Customer Analysis
+- Created Full Name by combining First Name and Last Name.
+- Calculated Order Amount using Price and Quantity.
+- Generated Discount Percentage based on Coupon Codes.
+- Calculated Discounted Amount.
+- Calculated Amount Including Delivery Charges.
+- Calculated Actual Days to Deliver.
+- Categorized Delivery Status into Late, In Time, and Before Time.
+
+## 5. Key Performance Indicators (KPIs)
+
+**Customer Analysis**
 - Total Unique Customers
-- Highest Order Amount Customer
+- Customer with Highest Order Amount
 - Average Customer Age
 
-### 2. Order & Delivery Analysis
+**Order & Delivery Analysis**
 - Total Orders Placed
-- Average Delivery Days
+- Average Days to Deliver
 - Orders with Zero Delivery Charges
 
-### 3. Product Analysis
+**Product Analysis**
 - Total Unique Products
 - Most Ordered Product
 - Highest Sales Generating Product
 
-### 4. Sales Analysis
+**Sales Analysis**
 - Total Sales Amount
 - Total Discount Offered
-- Sales After Discount
-- Sales After Discount and Delivery Charges
+- Total Amount After Discount
+- Total Amount After Discount and Delivery Charges
 
-## Data Preparation
-- Created Full Name using First Name and Last Name.
-- Calculated Order Amount using Price and Quantity.
-- Calculated Discount Percentage using Coupon Codes.
-- Calculated Discounted Amount.
-- Calculated Amount Including Delivery Charges.
-- Calculated Days to Deliver.
-- Categorized Delivery Status as Late, Intime, and BeforeTime.
+## 6. Data Visualization & Analysis
 
-## Visualizations
-- Top 10 Customers by Total Sales.
-- Top 7 Most Ordered Products.
-- City-wise Total Orders.
-- City-wise Sales Analysis.
-- Discount Coupon Distribution.
-- Monthly and Gender-wise Sales Analysis.
+The project includes the following visualizations:
 
-## Dashboard
-The project includes an interactive Excel dashboard with visual representations of key business metrics and sales performance.
+- Top 10 Customers by Total Sales – Bar Chart
+- Top 7 Most Ordered Products – Donut Chart
+- City-wise Total Orders – Funnel Chart
+- City-wise Sales Performance – Bar Chart
+- Discount Coupon Distribution – Pie Chart
+- Monthly and Gender-wise Sales Analysis – Pivot Table and Clustered Bar Chart
 
-Refer to the Screenshots folder for dashboard previews.
+## 7. Interactive Dashboard
 
-## Key Skills Demonstrated
-- Data Cleaning and Preparation
+An interactive Excel dashboard was developed to present important business KPIs and visual insights in a consolidated view.
+
+The dashboard helps users understand sales performance, customer trends, product popularity, and delivery-related metrics.
+
+## 8. Key Skills Demonstrated
+
+- Data Preparation and Transformation
 - Excel Formulas and Functions
 - KPI Development
 - Pivot Table Analysis
 - Data Visualization
-- Business Intelligence
+- Business Data Analysis
 - Dashboard Development
 
-## Project Deliverable
-The completed Excel workbook is available in the `Excel_Project` folder.
+## 9. Project Preview
 
-**Note:** Download the Excel workbook and open it in Microsoft Excel to explore the dashboard and its interactive features.
+![Retail Sales Analysis Dashboard](DashBoard.png)
+
+## 10. Project Deliverable
+
+The completed Excel workbook is available in this repository.
+
+Download `Retail_Sales_Analysis.xlsx` and open it in Microsoft Excel to explore the analysis sheets, Pivot Tables, charts, and interactive dashboard.
+
+---
+
+**Project Category:** Data Analytics
+
+**Tool:** Microsoft Excel
+
+**Project Type:** Retail Sales Analysis
