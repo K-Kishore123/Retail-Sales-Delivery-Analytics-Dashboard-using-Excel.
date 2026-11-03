@@ -3,6 +3,10 @@
 ## Project Overview
 This project focuses on analyzing retail sales and customer order data using Microsoft Excel. The objective is to transform raw data into meaningful business insights through data preparation, KPI calculations, Pivot Tables, charts, and an interactive dashboard.
 
+## Dashboard Preview
+
+![Retail Sales Dashboard](DashBoard.png)
+
 ## Tools & Technologies
 - Microsoft Excel
 - Excel Formulas
