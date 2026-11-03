@@ -1,4 +1,4 @@
-# Retail Sales Analysis & Interactive Dashboard
+# Retail Sales & Delivery Analytics Dashboard
 
 **Microsoft Excel | Data Analytics Portfolio Project**
 
